@@ -1,1 +1,1 @@
-My first readme
+practicing the basic prompts and commands of git interphase 
