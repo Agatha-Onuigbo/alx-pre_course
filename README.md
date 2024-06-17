@@ -1,1 +1,1 @@
-practicing the basic prompts and commands of git interphase 
+Practising basic commands on the git interphase 
